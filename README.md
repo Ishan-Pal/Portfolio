@@ -111,6 +111,6 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to contact me at [Shivansh Yadav](mailto:shivanshyadav50@gmail.com).
+If you have any questions or need further assistance, feel free to contact me at [Ishan Pal](mailto:ishan30112001pal@gmail.com).
 
 Thank you for visiting my personal portfolio!
